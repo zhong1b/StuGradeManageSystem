@@ -1,0 +1,200 @@
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.修改窗口.resources
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.添加窗口.resources
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览窗口.resources
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.exe
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.pdb
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+E:\users\zhaofun\documents\visual studio 2010\Projects\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.删除窗口.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.修改窗口.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.删除窗口.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.添加窗口.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览窗口.resources
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.exe
+\\vmware-host\Shared Folders\Desktop\数据库课件\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.pdb
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.exe
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.pdb
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.查询学籍窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生成绩窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览成绩信息窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学籍信息窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生成绩窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生成绩窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.查询成绩窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.菜单窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生学籍窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生学籍窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生学籍窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.添加用户窗口.resources
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\bin\Debug\XJManageSystem.exe.config
+C:\2010301487—赵凡—大作业\XJManageSystem\XJManageSystem\obj\x86\Debug\XJManageSystem.综合查询窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\bin\Debug\XJManageSystem.exe.config
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\bin\Debug\XJManageSystem.exe
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\bin\Debug\XJManageSystem.pdb
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生学籍窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生成绩窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生学籍窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生成绩窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.查询成绩窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览成绩信息窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.查询学籍窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生成绩窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.添加用户窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生学籍窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学籍信息窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.综合查询窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\XJManageSystem.菜单窗口.resources
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Desktop\DB5_2011301511_张晨曦\XJManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\bin\Debug\XJManageSystem.exe.config
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\bin\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\bin\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.查询成绩窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览成绩信息窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.查询学籍窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加用户窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学籍信息窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.综合查询窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.菜单窗口.resources
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.GenerateResource.cache
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\新建文件夹 (2)\数据库大作业\大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.csprojAssemblyReference.cache
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\bin\Debug\XJManageSystem.exe.config
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\bin\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\bin\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.修改课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.学生成绩分析窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.学科成绩分析窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.查询成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览成绩信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.查询学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加用户窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.用户注册窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学籍信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.综合查询窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.菜单窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.GenerateResource.cache
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.删除用户窗口.resources
+C:\Users\SongYongBo\Desktop\数据库大作业\XJManageSystem\obj\x86\Debug\XJManageSystem.csprojAssemblyReference.cache
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\bin\Debug\XJManageSystem.exe.config
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\bin\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\bin\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.csprojAssemblyReference.cache
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.修改课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.删除用户窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.删除课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.学生成绩分析窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.学科成绩分析窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.查询成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览成绩信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.查询学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.添加用户窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.添加课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.用户注册窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学籍信息窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.综合查询窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.菜单窗口.resources
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.GenerateResource.cache
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\数据库\数据库实验\DB8_2016302368_宋勇博\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\bin\Debug\XJManageSystem.exe.config
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\bin\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\bin\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.修改学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.修改课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.删除学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.删除用户窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.删除课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.学生成绩分析窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.学科成绩分析窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.查询成绩窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览成绩信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.查询学籍窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生成绩窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学院信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.添加用户窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.添加课程信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.用户注册窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.登录窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.Properties.Resources.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.添加学生学籍窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.浏览学籍信息窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.综合查询窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.菜单窗口.resources
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.GenerateResource.cache
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.exe
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.pdb
+C:\Users\SongYongBo\Desktop\软件工程\实验\XJManageSystem\obj\x86\Debug\XJManageSystem.csprojAssemblyReference.cache
